@@ -16,9 +16,9 @@ Simplify.  Design thinking must trickle down.
 
 Always remember to initialize.  You probably need to create a parameter off of initialize, but you don't always have to use it. 
 
-There are two different schools of thought of testing.  CHeat and write a new test that will force you to test it.  Or don't do the redundant extra test and refactor it to make a rugged test. 
+There are two different schools of thought of testing.  Cheat and write a new test that will force you to test it.  Or don't do the redundant extra test and refactor it to make a rugged test. 
 
-Different learning styles require difference types of methods for attacking code.  The JumpStart Lab path is to load hefty tutorials at students and make them write code from the g
+Different learning styles require difference types of methods for attacking code.  The JumpStart Lab path is to load hefty tutorials at students and make them write code from the beginning.  Yikes!
 
 [pry]()
 
